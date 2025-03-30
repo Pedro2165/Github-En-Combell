@@ -1,0 +1,158 @@
+2425d205 (Zhano Van Vreckem 2025-03-21   1) <!DOCTYPE html>
+2425d205 (Zhano Van Vreckem 2025-03-21   2) <html>
+2425d205 (Zhano Van Vreckem 2025-03-21   3)   <head>
+2425d205 (Zhano Van Vreckem 2025-03-21   4)     <meta charset="UTF-8" />
+6713d82d (Zhano Van Vreckem 2025-03-30   5)     <meta name="viewport" content="width=device-width" />
+2425d205 (Zhano Van Vreckem 2025-03-21   6)     <title>Demo-site DWW2</title>
+f1b5dd68 (Zhano Van Vreckem 2025-03-30   7)     <link href="styles.css" rel="stylesheet" />
+2425d205 (Zhano Van Vreckem 2025-03-21   8)   </head>
+2425d205 (Zhano Van Vreckem 2025-03-21   9) 
+2425d205 (Zhano Van Vreckem 2025-03-21  10)   <body>
+2425d205 (Zhano Van Vreckem 2025-03-21  11)     <div class="pageWrapper">
+2425d205 (Zhano Van Vreckem 2025-03-21  12)       <header>
+2425d205 (Zhano Van Vreckem 2025-03-21  13)         <nav class="clear">
+2425d205 (Zhano Van Vreckem 2025-03-21  14)           <ul>
+2425d205 (Zhano Van Vreckem 2025-03-21  15)             <li><a href="#">About The Boek</a></li>
+2425d205 (Zhano Van Vreckem 2025-03-21  16)             <li><a href="#">CSS Properties</a></li>
+2425d205 (Zhano Van Vreckem 2025-03-21  17)             <li><a href="#">CSS Tips</a></li>
+2425d205 (Zhano Van Vreckem 2025-03-21  18)             <li><a href="#">CSS Gotchas</a></li>
+1581498b (abdelrhl          2025-03-30  19)             <li><a href="#">Contact ons</a></li>
+2425d205 (Zhano Van Vreckem 2025-03-21  20)           </ul>
+2425d205 (Zhano Van Vreckem 2025-03-21  21)         </nav>
+2425d205 (Zhano Van Vreckem 2025-03-21  22)         <h1>CSS3: The Misssing Manual</h1>
+2425d205 (Zhano Van Vreckem 2025-03-21  23)       </header>
+2425d205 (Zhano Van Vreckem 2025-03-21  24)       <div class="contentWrapper">
+2425d205 (Zhano Van Vreckem 2025-03-21  25)         <div class="columnWrapper">
+2425d205 (Zhano Van Vreckem 2025-03-21  26)           <!-- main content goes here -->
+2425d205 (Zhano Van Vreckem 2025-03-21  27)           <article class="main">
+2425d205 (Zhano Van Vreckem 2025-03-21  28)             <h2>Article Title</h2>
+2425d205 (Zhano Van Vreckem 2025-03-21  29)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21  30)               <img
+2425d205 (Zhano Van Vreckem 2025-03-21  31)                 src="imgs/clouds.jpg"
+2425d205 (Zhano Van Vreckem 2025-03-21  32)                 alt="Clouds"
+2425d205 (Zhano Van Vreckem 2025-03-21  33)                 class="half right"
+2425d205 (Zhano Van Vreckem 2025-03-21  34)               />Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante
+2425d205 (Zhano Van Vreckem 2025-03-21  35)               quis felis fringilla condimentum. Aenean orci ante, venenatis non
+2425d205 (Zhano Van Vreckem 2025-03-21  36)               adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet
+2425d205 (Zhano Van Vreckem 2025-03-21  37)               luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id
+2425d205 (Zhano Van Vreckem 2025-03-21  38)               tortor. Suspendisse vitae quam lorem, in tempus velit. Sed vitae
+2425d205 (Zhano Van Vreckem 2025-03-21  39)               ante quis felis fringilla condimentum.
+2425d205 (Zhano Van Vreckem 2025-03-21  40)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21  41)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21  42)               Aenean orci ante, venenatis non adipiscing vitae, fringilla et
+2425d205 (Zhano Van Vreckem 2025-03-21  43)               neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem
+2425d205 (Zhano Van Vreckem 2025-03-21  44)               pharetra mi, vel faucibus elit risus id tortor.
+2425d205 (Zhano Van Vreckem 2025-03-21  45)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21  46)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21  47)               Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis
+2425d205 (Zhano Van Vreckem 2025-03-21  48)               felis fringilla condimentum. Aenean orci ante, venenatis non
+2425d205 (Zhano Van Vreckem 2025-03-21  49)               adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet
+2425d205 (Zhano Van Vreckem 2025-03-21  50)               luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id
+2425d205 (Zhano Van Vreckem 2025-03-21  51)               tortor. Suspendisse vitae quam lorem, in tempus velit. Sed vitae
+2425d205 (Zhano Van Vreckem 2025-03-21  52)               ante quis felis fringilla condimentum.
+2425d205 (Zhano Van Vreckem 2025-03-21  53)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21  54)             <h3>
+2425d205 (Zhano Van Vreckem 2025-03-21  55)               <img
+2425d205 (Zhano Van Vreckem 2025-03-21  56)                 src="imgs/jellyfish.jpg"
+2425d205 (Zhano Van Vreckem 2025-03-21  57)                 alt="Jellyfish"
+2425d205 (Zhano Van Vreckem 2025-03-21  58)                 class="half left"
+2425d205 (Zhano Van Vreckem 2025-03-21  59)               />Subheading
+2425d205 (Zhano Van Vreckem 2025-03-21  60)             </h3>
+2425d205 (Zhano Van Vreckem 2025-03-21  61)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21  62)               Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis
+2425d205 (Zhano Van Vreckem 2025-03-21  63)               felis fringilla condimentum. Aenean orci ante, venenatis non
+2425d205 (Zhano Van Vreckem 2025-03-21  64)               adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet
+2425d205 (Zhano Van Vreckem 2025-03-21  65)               luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id
+2425d205 (Zhano Van Vreckem 2025-03-21  66)               tortor. Suspendisse vitae quam lorem, in tempus velit. Sed vitae
+2425d205 (Zhano Van Vreckem 2025-03-21  67)               ante quis felis fringilla condimentum.
+2425d205 (Zhano Van Vreckem 2025-03-21  68)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21  69)             <h3>Subheading</h3>
+2425d205 (Zhano Van Vreckem 2025-03-21  70)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21  71)               Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis
+2425d205 (Zhano Van Vreckem 2025-03-21  72)               felis fringilla condimentum. Aenean orci ante, venenatis non
+2425d205 (Zhano Van Vreckem 2025-03-21  73)               adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet
+2425d205 (Zhano Van Vreckem 2025-03-21  74)               luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id
+2425d205 (Zhano Van Vreckem 2025-03-21  75)               tortor. Suspendisse vitae quam lorem, in tempus velit. Sed vitae
+2425d205 (Zhano Van Vreckem 2025-03-21  76)               ante quis felis fringilla condimentum. Aenean orci ante, venenatis
+2425d205 (Zhano Van Vreckem 2025-03-21  77)               non adipiscing vitae, fringilla et neque. In pharetra, eros
+2425d205 (Zhano Van Vreckem 2025-03-21  78)               imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus
+2425d205 (Zhano Van Vreckem 2025-03-21  79)               elit risus id tortor. Suspendisse vitae quam lorem, in tempus
+2425d205 (Zhano Van Vreckem 2025-03-21  80)               velit. Sed vitae ante quis felis fringilla condimentum. Aenean
+2425d205 (Zhano Van Vreckem 2025-03-21  81)               orci ante, venenatis non adipiscing vitae, fringilla et neque. In
+2425d205 (Zhano Van Vreckem 2025-03-21  82)               pharetra, eros imperdiet luctus imperdiet, nunc sem pharetra mi,
+2425d205 (Zhano Van Vreckem 2025-03-21  83)               vel faucibus elit risus id tortor. Suspendisse vitae quam lorem,
+2425d205 (Zhano Van Vreckem 2025-03-21  84)               in tempus velit. Sed vitae ante quis felis fringilla condimentum.
+2425d205 (Zhano Van Vreckem 2025-03-21  85)               Aenean orci ante, venenatis non adipiscing vitae, fringilla et
+2425d205 (Zhano Van Vreckem 2025-03-21  86)               neque. In pharetra, eros imperdiet luctus imperdiet, nunc sem
+2425d205 (Zhano Van Vreckem 2025-03-21  87)               pharetra mi, vel faucibus elit risus id tor
+2425d205 (Zhano Van Vreckem 2025-03-21  88)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21  89)           </article>
+2425d205 (Zhano Van Vreckem 2025-03-21  90)           <!-- first sidebar goes here -->
+2425d205 (Zhano Van Vreckem 2025-03-21  91)           <aside class="sidebar1">
+2425d205 (Zhano Van Vreckem 2025-03-21  92)             <h2>Sidebar 1</h2>
+2425d205 (Zhano Van Vreckem 2025-03-21  93)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21  94)               Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis
+2425d205 (Zhano Van Vreckem 2025-03-21  95)               felis fringilla condimentum. Aenean orci ante, venenatis non
+2425d205 (Zhano Van Vreckem 2025-03-21  96)               adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet
+2425d205 (Zhano Van Vreckem 2025-03-21  97)               luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id
+2425d205 (Zhano Van Vreckem 2025-03-21  98)               tortor.
+2425d205 (Zhano Van Vreckem 2025-03-21  99)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21 100)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21 101)               <img src="imgs/gator.jpg" alt="Gator" width="300" height="200" />
+2425d205 (Zhano Van Vreckem 2025-03-21 102)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21 103)             <h3>Secondary Header</h3>
+2425d205 (Zhano Van Vreckem 2025-03-21 104)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21 105)               Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis
+2425d205 (Zhano Van Vreckem 2025-03-21 106)               felis fringilla condimentum.
+2425d205 (Zhano Van Vreckem 2025-03-21 107)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21 108)             <h3>Secondary Header</h3>
+2425d205 (Zhano Van Vreckem 2025-03-21 109)             <p>
+2425d205 (Zhano Van Vreckem 2025-03-21 110)               Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis
+2425d205 (Zhano Van Vreckem 2025-03-21 111)               felis fringilla condimentum.
+2425d205 (Zhano Van Vreckem 2025-03-21 112)             </p>
+2425d205 (Zhano Van Vreckem 2025-03-21 113)           </aside>
+2425d205 (Zhano Van Vreckem 2025-03-21 114)         </div>
+2425d205 (Zhano Van Vreckem 2025-03-21 115)         <!-- second sidebar goes here -->
+2425d205 (Zhano Van Vreckem 2025-03-21 116)         <aside class="sidebar2">
+2425d205 (Zhano Van Vreckem 2025-03-21 117)           <h2>Sidebar 2</h2>
+2425d205 (Zhano Van Vreckem 2025-03-21 118)           <ul>
+2425d205 (Zhano Van Vreckem 2025-03-21 119)             <li>Aenean orci ante</li>
+2425d205 (Zhano Van Vreckem 2025-03-21 120)             <li>Venenatis non adipiscing vita</li>
+2425d205 (Zhano Van Vreckem 2025-03-21 121)             <li>Fringilla et neque</li>
+2425d205 (Zhano Van Vreckem 2025-03-21 122)             <li>Aenean orci ante</li>
+2425d205 (Zhano Van Vreckem 2025-03-21 123)             <li>Venenatis non adipiscing vita</li>
+2425d205 (Zhano Van Vreckem 2025-03-21 124)             <li>Fringilla et neque</li>
+2425d205 (Zhano Van Vreckem 2025-03-21 125)           </ul>
+2425d205 (Zhano Van Vreckem 2025-03-21 126)           <p>
+2425d205 (Zhano Van Vreckem 2025-03-21 127)             Suspendisse vitae quam lorem, in tempus velit. Sed vitae ante quis
+2425d205 (Zhano Van Vreckem 2025-03-21 128)             felis fringilla condimentum. Aenean orci ante, venenatis non
+2425d205 (Zhano Van Vreckem 2025-03-21 129)             adipiscing vitae, fringilla et neque. In pharetra, eros imperdiet
+2425d205 (Zhano Van Vreckem 2025-03-21 130)             luctus imperdiet, nunc sem pharetra mi, vel faucibus elit risus id
+2425d205 (Zhano Van Vreckem 2025-03-21 131)             tortor.Suspendisse vitae quam lorem, in tempus velit.
+2425d205 (Zhano Van Vreckem 2025-03-21 132)           </p>
+2425d205 (Zhano Van Vreckem 2025-03-21 133)           <p><img src="imgs/mule.jpg" alt="Mule" /></p>
+2425d205 (Zhano Van Vreckem 2025-03-21 134)           <p>
+2425d205 (Zhano Van Vreckem 2025-03-21 135)             Sed vitae ante quis felis fringilla condimentum. Aenean orci ante,
+2425d205 (Zhano Van Vreckem 2025-03-21 136)             venenatis non adipiscing vitae, fringilla et neque. In pharetra,
+2425d205 (Zhano Van Vreckem 2025-03-21 137)             eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus
+2425d205 (Zhano Van Vreckem 2025-03-21 138)             elit risus id tortor.Suspendisse vitae quam lorem, in tempus velit.
+2425d205 (Zhano Van Vreckem 2025-03-21 139)             Sed vitae ante quis felis fringilla condimentum. Aenean orci ante,
+2425d205 (Zhano Van Vreckem 2025-03-21 140)             venenatis non adipiscing vitae, fringilla et neque. In pharetra,
+2425d205 (Zhano Van Vreckem 2025-03-21 141)             eros imperdiet luctus imperdiet, nunc sem pharetra mi, vel faucibus
+2425d205 (Zhano Van Vreckem 2025-03-21 142)             elit risus id tortor.
+2425d205 (Zhano Van Vreckem 2025-03-21 143)           </p>
+2425d205 (Zhano Van Vreckem 2025-03-21 144)         </aside>
+2425d205 (Zhano Van Vreckem 2025-03-21 145)       </div>
+2425d205 (Zhano Van Vreckem 2025-03-21 146)       <footer>
+2425d205 (Zhano Van Vreckem 2025-03-21 147)         <p>
+2425d205 (Zhano Van Vreckem 2025-03-21 148)           Copyright 2013, Greek Text Generator, Inc. Suspendisse vitae quam
+2425d205 (Zhano Van Vreckem 2025-03-21 149)           lorem, in tempus velit. Sed vitae ante quis felis fringilla
+2425d205 (Zhano Van Vreckem 2025-03-21 150)           condimentum. Aenean orci ante, venenatis non adipiscing vitae,
+2425d205 (Zhano Van Vreckem 2025-03-21 151)           fringilla et neque. In pharetra, eros imperdiet luctus imperdiet, nunc
+2425d205 (Zhano Van Vreckem 2025-03-21 152)           sem pharetra mi, vel faucibus elit risus id tortor.
+2425d205 (Zhano Van Vreckem 2025-03-21 153)         </p>
+2425d205 (Zhano Van Vreckem 2025-03-21 154)         <p>Contact: <a href="mailto:nobody@nowhere.com">e-mail@here.com</a></p>
+2425d205 (Zhano Van Vreckem 2025-03-21 155)       </footer>
+2425d205 (Zhano Van Vreckem 2025-03-21 156)     </div>
+2425d205 (Zhano Van Vreckem 2025-03-21 157)   </body>
+2425d205 (Zhano Van Vreckem 2025-03-21 158) </html>
